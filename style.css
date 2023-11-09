@@ -8,11 +8,14 @@
 header {
 
 }
+.header-group {
+  height: 70px;
+}
 
 .nav-list-item {
+  color: #ffffff;
   text-decoration: none;
   list-style: none;
   display: inline-block;
   margin: 0 20px;
-  color: #ffffff;
 }
