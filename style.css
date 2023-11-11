@@ -32,7 +32,6 @@ section {
 
 
 .list-bar {
-
   font-size: 16px;
   text-decoration: none;
   list-style: none;
@@ -56,6 +55,10 @@ display: inline-block;
 .nav-list .mv-title .mv-text {
   color: #fafafa;
   text-decoration: none;
+}
+
+section {
+  margin: 0 auto;
 }
 
 #mv {
@@ -123,7 +126,7 @@ display: inline-block;
     background-position: center;
 }
 
-.production:nth-child(-n+3) {
+/*.production:nth-child(-n+3) {*/
     margin-top: 0;
 }
 
